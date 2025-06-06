@@ -1,65 +1,114 @@
 {
-  "siteTitle": "BizBud Template",
-  "logoUrl": "/logo.png",
+  "siteTitle": "ASD Gardens",
+  "logoUrl": "/images/logo.jpg",
   "hero": {
-    "headline": "Launch Your Business Online Today",
-    "subheadline": "Get a modern, mobile-friendly website tailored for your small business — fast and affordable.",
-    "ctaText": "Get Started",
+    "headline": "Professional Garden & Grounds Maintenance",
+    "subheadline": "Reliable, fully insured experts in garden care, hedge trimming, tree removal and more — serving landlords, agents, and homeowners.",
+    "ctaText": "Get a Free Quote",
     "ctaLink": "#contact"
   },
   "about": {
-    "title": "About Us",
-    "description": "BizBud helps small businesses get online with beautiful, simple websites. Whether you're a baker, a cleaner, or a local service provider, we make your business look good online.",
+    "title": "About ASD Gardens",
+    "description": "ASD Gardens is an established, reputable firm delivering high-quality grounds maintenance and property care services. We work with landlords, estate agents, and homeowners across the region, offering everything from regular grass cutting to full-scale garden clearances. Our team includes experienced in-house gardeners and trusted subcontractors, all fully insured and qualified in their trade.",
     "image": "/images/about.png"
   },
   "services": {
-    "title": "What We Offer",
+    "title": "Our Services",
     "items": [
-      { "title": "Professional Website", "description": "Sleek, responsive, and SEO-ready site tailored to your business." },
-      { "title": "Custom Domain Setup", "description": "Get your own .co.uk or .com with email address setup too." },
-      { "title": "Fast Turnaround", "description": "We'll have your site live within 48 hours of final approval." }
+      {
+        "title": "Grass Cutting & Lawn Care",
+        "description": "Scheduled and one-off lawn mowing, edging, weeding, fertilising and seasonal treatments for healthy green spaces."
+      },
+      {
+        "title": "Hedge Trimming & Shaping",
+        "description": "Precision trimming and reshaping of hedges and shrubs to maintain neat boundaries and tidy gardens."
+      },
+      {
+        "title": "Tree & Stump Removal",
+        "description": "Safe and efficient felling, pruning, and stump grinding by qualified arborists."
+      },
+      {
+        "title": "Garden Waste Removal",
+        "description": "We'll clear and dispose of green waste, overgrowth, and unwanted garden items responsibly and legally."
+      },
+      {
+        "title": "Jet Washing & Hard Surface Cleaning",
+        "description": "Driveway, patio, and decking jet wash services to restore the look of outdoor surfaces."
+      },
+      {
+        "title": "Landlord & Lettings Support",
+        "description": "End-of-tenancy garden clearances, ongoing maintenance, and pre-let property tidy-ups tailored to estate agents and landlords."
+      }
     ]
   },
   "features": {
     "title": "Why Choose Us?",
     "items": [
-      { "icon": "RocketLaunchIcon", "title": "Fast Setup", "description": "From draft to live in under 2 days." },
-      { "icon": "DevicePhoneMobileIcon", "title": "Mobile First", "description": "Looks perfect on any device." },
-      { "icon": "CogIcon", "title": "Easy Updates", "description": "Change your content with one message." }
+      {
+        "icon": "ShieldCheckIcon",
+        "title": "Fully Insured & Qualified",
+        "description": "Peace of mind with a professional team backed by full insurance and verified training."
+      },
+      {
+        "icon": "UserGroupIcon",
+        "title": "Trusted by Landlords",
+        "description": "We work closely with letting agents and landlords to deliver prompt, reliable property maintenance."
+      },
+      {
+        "icon": "LeafIcon",
+        "title": "Eco-Friendly Disposal",
+        "description": "Green waste is disposed of responsibly, recycling where possible and following local environmental guidelines."
+      }
     ]
   },
   "gallery": {
-    "title": "Gallery",
+    "title": "Recent Projects",
     "images": [
-      "/images/gallery/dog1.jpg",
-      "/images/gallery/dog2.jpg",
-      "/images/gallery/dog3.jpg",
-      "/images/gallery/dog4.jpg",
-      "/images/gallery/dog5.jpg",
-      "/images/gallery/dog6.jpg"
+      "/images/gallery/garden1.jpg",
+      "/images/gallery/garden2.jpg",
+      "/images/gallery/garden3.jpg"
     ]
   },
   "testimonials": {
-    "title": "Happy Customers",
+    "title": "What Our Clients Say",
     "quotes": [
-      { "name": "Sarah the Baker", "quote": "BizBud made my bakery look amazing online. Orders have doubled!", "image": "/images/sarah.png" },
-      { "name": "Mike's Mowing", "quote": "I didn't think I needed a website — now I get more calls than ever.", "image": "/images/mike.png" }
+      {
+        "name": "Lettings Agent Partner",
+        "quote": "ASD Gardens have transformed the outdoor spaces on multiple properties we manage. They're fast, tidy, and always professional.",
+        "image": "/images/testimonial1.jpg"
+      },
+      {
+        "name": "Private Homeowner",
+        "quote": "I use them every month for lawn care and hedge trimming. Great service, fair prices, and super friendly staff.",
+        "image": "/images/testimonial2.jpg"
+      }
     ]
   },
   "faq": {
-    "title": "Frequently Asked Questions",
+    "title": "FAQs",
     "items": [
-      { "question": "How much does it cost?", "answer": "We charge a simple £250 for 12 months, or £25/month." },
-      { "question": "Can I update my site later?", "answer": "Yes! You can email us changes, or use your login portal." }
+      {
+        "question": "Do you offer regular maintenance contracts?",
+        "answer": "Yes — we offer weekly, fortnightly, or monthly visits depending on your needs."
+      },
+      {
+        "question": "Are you fully insured?",
+        "answer": "Absolutely — all our team members are covered with public liability insurance and are professionally trained."
+      },
+      {
+        "question": "Do you cover commercial properties?",
+        "answer": "Yes — we maintain both residential and commercial outdoor spaces."
+      }
     ]
   },
   "social": {
-    "facebook": "https://facebook.com/yourbizbud",
-    "instagram": "https://instagram.com/yourbizbud"
+    "facebook": "https://facebook.com/asdgardens",
+    "instagram": "https://instagram.com/asdgardens"
   },
   "contact": {
     "title": "Get In Touch",
-    "description": "Ready to get started? Drop us a message and we'll set up your demo site.",
-    "email": "hello@bizbud.co.uk"
+    "description": "Contact us for a no-obligation quote or to discuss your garden or property maintenance needs.",
+    "email": "info@asdgardens.co.uk",
+    "phone": "01234 567890"
   }
 }
